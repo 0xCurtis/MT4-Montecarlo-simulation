@@ -1,0 +1,7 @@
+{
+    "dd": -0.1,
+    "target": 0.1,
+    "multiplier": 1,
+    "initial": 1000,
+    "simLimit": 18500
+}
